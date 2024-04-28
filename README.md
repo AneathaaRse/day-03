@@ -1,2 +1,2 @@
 # day-03
-share about all countries api details
+share all countries api details
